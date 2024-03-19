@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43811348007",
+    "project_id": "mini-project-dbabb",
+    "storage_bucket": "mini-project-dbabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43811348007:android:778c2fc93d03d45209f802",
+        "android_client_info": {
+          "package_name": "com.jyothikasapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38QyXAdNGV3N_-NxLZd4YgApCduQIicA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
